@@ -6,6 +6,8 @@ It also describes how to run the code and what outputs are expected**
 ## Requirements
 
 -Everything is embedded into a Jupyter Notebook (https://jupyter.org/) written in Python language (https://www.python.org/).
+You can review the code directly on GitHub as the outputs are embeded on it, but the format may be altered and sometimes 
+gifs may not load so it better to open it as a Jupyter notebook.
 
 -To be able to run this you will need to have a Python version higher than 3 installed. For machines with linux it is usually
 already installed. 
