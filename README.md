@@ -32,5 +32,6 @@ already installed.
 it should not be a problem to run it very easily and quicky. 
 -You should be able to see the updated dataframe structure after running cells 3, 4, 5, 6 and 7
 -You should be able to obtain 2 scatter plots after running cells 8 and 12
+-You should be abble to see the printed r coefficient and p value after running cells 9 and 13
 -You should be able to see a gif after running cells 10 and 14
 -Check if you browser supports gif format to display gifs.
